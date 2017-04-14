@@ -1,0 +1,42 @@
+body{
+
+	background: url("image.jpg");
+}
+
+
+.header{
+	background: black;
+	color: #FFFFFF;
+}
+
+#address {
+	color: white;
+	text-decoration: none;
+}
+
+
+.container-fluid{
+	clear: both;
+	font-family: comic sans-serif helvetica;
+	background-repeat: repeat;
+	width: 800px;
+	height: 600px;
+	margin-top: 80px;
+}
+
+h1{
+	font-size: 80px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+.btn{
+	position: relative;
+	align-content: center;
+}
+
+p{
+	font-size: 30px;
+}
